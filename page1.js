@@ -7,5 +7,5 @@ button.onclick = () => {
 let playbutton = document.getElementById("playbutton");
 
 playbutton.onclick = () => {
-    location.href = "/page3.html"
+    location.href = "./page3.html"
 };
